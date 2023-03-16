@@ -1,5 +1,5 @@
-<h1 align="center">Hola yo soy Ricardo Dicarlo</h1>
-<h3 align="center">Soy un entusiasta de la visualizacion de datos</h3>
+<h1 align="center">Hola trabajo en visualizacion de datos y este es mi repositorio de archivos de datos y proyectos</h1>
+<h3 align="center">Soy investigador en relacion a como apoya la visualizaicon de datos en las organizaciones</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
