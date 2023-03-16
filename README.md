@@ -1,5 +1,5 @@
 <h1 align="center">Hola trabajo en visualizacion de datos y este es mi repositorio de archivos de datos y proyectos</h1>
-<h3 align="center">Soy investigador en relacion a como apoya la visualizaicon de datos en las organizaciones</h3>
+<h3 align="center">Soy investigador en relación a como apoya la visualización de datos en la toma de decisiones organizacional</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
